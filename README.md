@@ -2,7 +2,7 @@
 
 This project generates synthetic images of wheat seeds and the groundtruth for seed instance segmentation.  
 
-<img src="https://github.com/L-Zhou17/wheat-grain-segmentation/blob/main/Example.png">  
+.<img src="https://github.com/L-Zhou17/wheat-grain-segmentation/blob/main/Example.png">  
 Usage:  
 * Step 1 - Please unzip the file 'Wheat-Base' at first.  
 * Step 2 - Run the 'WheatImageGen.m' script to generate the datasets for model training and validation. (Here, the annotation format required by YoloV8-segment is provided.)  
