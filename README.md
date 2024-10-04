@@ -1,6 +1,7 @@
 # wheat-grain-segmentation
 
-This project generates synthetic images of wheat seeds and the groundtruth for seed instance segmentation. 
+This project generates synthetic images of wheat seeds and the groundtruth for seed instance segmentation.  
+
 ![](https://github.com/L-Zhou17/wheat-grain-segmentation/blob/main/Example.png "Image-Annotation-pair generation")
 ## Usage:
 * Step 1 - Please unzip the file 'Wheat-Base' at first.  
